@@ -1,0 +1,6 @@
+@import '../base/variables';
+
+.header {
+  background-color: pink;
+  grid-column: full-start/col-end 6;
+}

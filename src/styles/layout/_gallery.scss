@@ -1,0 +1,5 @@
+@import '../base/variables';
+.gallery {
+  background-color: rgb(150, 150, 158);
+  grid-column: full-start/full-end;
+}
